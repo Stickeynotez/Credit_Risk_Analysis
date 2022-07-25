@@ -26,7 +26,6 @@ Each model was processed in the same manner as the previous resampling file.
 In the photo, it is shown that the logistic regression model is showing a 60.7% accuracy for precision and recall scores for each classification.
 
 ![image](https://user-images.githubusercontent.com/99559096/180677049-b2420ef9-e4e4-43a3-8c00-45150b09cd18.png)
-
 Pictured above is a classification report. 
 For the HIGH RISK CLASS:
 - The precision is 1%

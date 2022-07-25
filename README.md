@@ -30,6 +30,7 @@ Pictured above is a classification report.
 For the HIGH RISK CLASS:
 - The precision is 1%
 - The recall is 57%
+
 For the LOW RISK CLASS:
 - The precision is 100%
 - The recall is 64%

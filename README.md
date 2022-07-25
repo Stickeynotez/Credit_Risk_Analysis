@@ -22,8 +22,11 @@ Each model was processed in the same manner as the previous resampling file.
 # Results
 ## Oversampling with Naive RandomOverSampler
 ![image](https://user-images.githubusercontent.com/99559096/180676955-c71f85a4-9e62-4d5a-88d4-51ab8e616b80.png)
+
 In the photo, it is shown that the logistic regression model is showing a 60.7% accuracy for precision and recall scores for each classification.
+
 ![image](https://user-images.githubusercontent.com/99559096/180677049-b2420ef9-e4e4-43a3-8c00-45150b09cd18.png)
+
 Pictured above is a classification report. 
 For the HIGH RISK CLASS:
 - The precision is 1%

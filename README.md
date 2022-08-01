@@ -119,11 +119,12 @@ In the classification report we can see for each classification :
 ![image](https://user-images.githubusercontent.com/99559096/182045532-87ef93a4-dc66-4db8-af8d-296a5803fd79.png)
 
 For High Risk :
--The precision is 0.7%
--The recall is 89%
+- The precision is 0.7%
+- The recall is 89%
+- 
 For Low Risk :
--The precision is 100%
--The Recall is 94%
+- The precision is 100%
+- The Recall is 94%
 
 # Summary
 We used 4 different resampling methods before using them on our logistic model. There is little difference between each resampling method, making the method used negligible. The precision and recall scores are all within a minimal margin. 

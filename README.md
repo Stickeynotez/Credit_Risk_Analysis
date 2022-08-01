@@ -118,12 +118,10 @@ The accuracy score of the easy ensemble classifier is 91.0% :
 In the classification report we can see for each classification :
 ![image](https://user-images.githubusercontent.com/99559096/182045532-87ef93a4-dc66-4db8-af8d-296a5803fd79.png)
 
-For High Risk : 
-
--The precision is .7%
+For High Risk :
+-The precision is 0.7%
 -The recall is 89%
-
-For Low Risk : 
+For Low Risk :
 -The precision is 100%
 -The Recall is 94%
 
